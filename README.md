@@ -10,6 +10,8 @@ public class Testtwo {
 		a[2]=12;
 		a[3]=13;
 		a[4]=15;
+		a[5]=16;
+		
 		
 		int length = a. length;
 		System.out.println(length);
